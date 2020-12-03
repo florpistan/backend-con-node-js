@@ -4,6 +4,7 @@
   "description": "Primer REST Server del curso de Backend",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Florencia Pistán Esparza",
